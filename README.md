@@ -2,6 +2,22 @@
 🚓 Crime record management system using php, mysql and phpmyadmin
 
 - Database Management System Mini-Project
+### Chief Admin
+- Username: admin
+- Password: a123
+- can view, add, edit and delete all the data
+
+### Police Staff
+- Username: police1
+- Password: 1234
+- can view all the data
+- add, delete and edit access for only Police data, Crime data, Criminal data and Prison data 
+
+### Court Staff
+- Username: court1
+- Password: 1258
+- can view all the data
+- add, delete and edit access for only Crime data, Criminal data and Court data 
 
 ## Languages and Tool used:
 <img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" alt="html" height="40"/> HTML
