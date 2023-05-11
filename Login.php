@@ -23,7 +23,7 @@ if (isset($_POST['courtbutton'])) {
     <div class="loginbox">
         <img src="avatar.jpg" class="avatar">
        
-        <form action="login.php" method="post">
+        <form action="" method="post">
             <h1>Police Crime Record</h1>
             <h1>Management System</h1>
             &nbsp;

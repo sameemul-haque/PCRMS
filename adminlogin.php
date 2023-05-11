@@ -20,7 +20,7 @@ if (isset($_POST['loginbutton'])) {
 }
 
 if (isset($_POST['backbutton'])) {
-    header("Location: login.php");
+    header("Location: Login.php");
 }
 
 ?>
