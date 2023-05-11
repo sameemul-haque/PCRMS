@@ -2,6 +2,13 @@
 🚓 Crime record management system using php, mysql and phpmyadmin
 
 - Database Management System Mini-Project
+- Semester 4 Group Project
+### Team Members 
+- Akash TK
+- Fareeda Jabin
+- Shifa Beegam
+- Sameemul Haque 
+
 ### Chief Admin
 - Username: admin
 - Password: a123
