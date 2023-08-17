@@ -14,8 +14,7 @@
 - Password: a123
 - can view, add, edit and delete all the data
 - Preview
-
-https://github.com/sameemul-haque/PCRMS/assets/110324374/02095cd5-a367-4d01-9d11-9b45f0863c54
+![chief](https://github.com/sameemul-haque/PCRMS/assets/110324374/f9588bbe-e4de-479b-9de9-c3512ad0b16e)
 
 ---
 ### Police Staff
@@ -24,9 +23,7 @@ https://github.com/sameemul-haque/PCRMS/assets/110324374/02095cd5-a367-4d01-9d11
 - can view all the data
 - add, delete and edit access for only Police data, Crime data, Criminal data and Prison data 
 - Preview
-
-https://github.com/sameemul-haque/PCRMS/assets/110324374/8eeb7b41-e83e-4315-aab8-8d3f356a8ce0
-
+![police](https://github.com/sameemul-haque/PCRMS/assets/110324374/e4eefa2d-920a-49a1-9d8f-0eb4c8dd7580)
 
 ---
 ### Court Staff
@@ -35,9 +32,7 @@ https://github.com/sameemul-haque/PCRMS/assets/110324374/8eeb7b41-e83e-4315-aab8
 - can view all the data
 - add, delete and edit access for only Crime data, Criminal data and Court data 
 - Preview
-
-https://github.com/sameemul-haque/PCRMS/assets/110324374/0a674184-91bd-4ee6-8df8-ba778d16bbb6
-
+![court](https://github.com/sameemul-haque/PCRMS/assets/110324374/32b509af-b177-43d8-adb3-d352fce5add7)
 
 ---
 ## Languages and Tool used:
